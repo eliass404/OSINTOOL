@@ -15,7 +15,7 @@ HOW TO RUN THE TOOL
 
 
 
-- git clone https://github.com/eliass404/eliass404/
+- git clone https://github.com/eliass404/OSINTOOL
 - cd OSINTOOL
 - chmod +x OSINTOOL.sh
 - ./OSINTOOL.sh
